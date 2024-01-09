@@ -1,0 +1,31 @@
+.active {
+  color: #333;
+  font-size: 20px;
+}
+
+a{
+  margin: 0 7px;
+}
+
+.card {
+  text-align: center;
+  margin: auto;
+}
+
+.item {
+  width: 40%;
+  margin: auto;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: coral;
+  color: #fff;
+  cursor: pointer;
+}
+
+.item:hover {
+  opacity: 0.7;
+}
+
+.item:active {
+  opacity: 1;
+}
